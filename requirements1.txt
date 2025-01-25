@@ -1,7 +1,0 @@
-streamlit
-plotly
-pandas
-pyupbit
-python-dotenv
-ta
-plotly-express
